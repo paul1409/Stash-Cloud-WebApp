@@ -14,8 +14,8 @@ This application was created in a team of 9 students with majors in software and
 
 * [JavaScript](https://www.javascript.com/)
 * [PHP](http://php.net/manual/en/intro-whatis.php)
-* [CSS]
-* [HTML]
+* CSS
+* HTML
 * [WordPress](https://wordpress.com/)
 
 
