@@ -12,11 +12,11 @@ This application was created in a team of 9 students with majors in software and
 
 ## Built With
 
-* [JavaScript](http://es6-features.org/#Constants)
-* [PHP](https://facebook.github.io/react/)
-* [CSS](http://redux.js.org/)
-* [HTML](https://github.com/borisyankov/react-sparklines)
-* [WordPress](https://developers.google.com/maps/)
+* [JavaScript](https://www.javascript.com/)
+* [PHP](http://php.net/manual/en/intro-whatis.php)
+* [CSS]
+* [HTML]
+* [WordPress](https://wordpress.com/)
 
 
 ## Authors
