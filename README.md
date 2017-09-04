@@ -25,5 +25,5 @@ This application was created in a team of 9 students with majors in software and
 * **Phillip Rognerud** - *Technical Lead/Architect* - [My GitHub Profile](https://github.com/philliprognerud)
 * **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruo)
 * **Paul Nguyen** - *Software Developer* - [GitHub Profile](https://github.com/paul1409)
-* **David ** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
+* **David** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
 
