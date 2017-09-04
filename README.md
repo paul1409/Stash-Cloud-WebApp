@@ -23,7 +23,7 @@ This application was created in a team of 9 students with majors in software and
 
 * **Natalia Slawinski** - *Project Manager* 
 * **Phillip Rognerud** - *Technical Lead/Architect* - [GitHub Profile](https://github.com/philliprognerud)
-* **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruo)
+* **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruno)
 * **Paul Nguyen** - *Software Developer* - [GitHub Profile](https://github.com/paul1409)
 * **David** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
 * **Devanshi** - *Software Developer* - [GitHub Profile](https://github.com/Devli12)
