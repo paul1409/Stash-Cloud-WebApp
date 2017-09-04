@@ -26,7 +26,7 @@ This application was created in a team of 9 students with majors in software and
 * **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruo)
 * **Paul Nguyen** - *Software Developer* - [GitHub Profile](https://github.com/paul1409)
 * **David** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
-* **Devanshi** - *Software Developer* 
+* **Devanshi** - *Software Developer* [GitHub Profile](https://github.com/Devli12)
 * **Hovanes** - *Software Developer* 
 * **Richard** - *Software Developer* 
 * **Dominic** - *Software Developer* 
