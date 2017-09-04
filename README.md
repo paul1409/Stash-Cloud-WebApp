@@ -21,8 +21,8 @@ This application was created in a team of 9 students with majors in software and
 
 ## Authors
 
-* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
-* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
-* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
-* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
-* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
+* **Natalia S.** - *Project Manager* 
+* **Phillip Rognerud** - *Technical Lead/Architect* - [My GitHub Profile](https://github.com/philliprognerud)
+* **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruo)
+* **Paul Nguyen** - *Software Developer* - [GitHub Profile](https://github.com/paul1409)
+
