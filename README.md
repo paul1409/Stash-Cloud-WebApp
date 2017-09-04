@@ -6,18 +6,23 @@
 
 Stash cloud is a file sharing website at its core. Any user can sign up for an account on stash cloud, and have the ability to share files to other members, or just for themselves.
 
+<h2>Review</h2>
+This application was created in a team of 9 students with majors in software and computer engineering. This project gave us valuable insight into the agile methology, and how to pick up on technologies that none of us have worked with before.
 
 
 ## Built With
 
-* [ES6](http://es6-features.org/#Constants)
-* [React JS](https://facebook.github.io/react/)
-* [Redux](http://redux.js.org/)
-* [Sparklines](https://github.com/borisyankov/react-sparklines)
-* [Google Maps API](https://developers.google.com/maps/)
-* [OpenWeather API](http://openweathermap.org/forecast5)
-* [Bootstrap](http://getbootstrap.com/)
+* [JavaScript](http://es6-features.org/#Constants)
+* [PHP](https://facebook.github.io/react/)
+* [CSS](http://redux.js.org/)
+* [HTML](https://github.com/borisyankov/react-sparklines)
+* [WordPress](https://developers.google.com/maps/)
+
 
 ## Authors
 
+* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
+* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
+* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
+* **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
 * **Phillip Rognerud** - *Initial work* - [My GitHub Profile](https://github.com/philliprognerud)
