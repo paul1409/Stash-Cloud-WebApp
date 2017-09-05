@@ -44,5 +44,5 @@ This application was created in a team of 9 students with majors in software and
 * **Devanshi Sukhadia** - *Software Developer* - [GitHub Profile](https://github.com/Devli12)
 * **Hovanes Bakchagyan** - *Software Developer* 
 * **Richard Baroni** - *Software Developer* 
-* **Dominic Varakukala** - *Software Developer* 
+* **Dominic Varakukala** - *Software Developer*  - [GitHub Profile](https://github.com/domVara)
 
