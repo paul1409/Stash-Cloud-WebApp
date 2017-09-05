@@ -7,7 +7,7 @@
 Stash cloud is a file sharing website at its core. Any user can sign up for an account on stash cloud, and have the ability to share files to other members, or just for themselves.
 
 <h2>Review</h2>
-This application was created in a team of 9 students with majors in software and computer engineering. This project gave us valuable insight into the agile methology, and how to pick up on technologies that none of us have worked with before.
+This application was created in a team of 9 students with majors in software and computer engineering. This project gave us valuable insight into the agile methodology, and how to pick up on technologies that none of us have worked with before.
 
 
 ## Built With
