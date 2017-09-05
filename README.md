@@ -40,9 +40,9 @@ This application was created in a team of 9 students with majors in software and
 * **Phillip Rognerud** - *Technical Lead/Architect* - [GitHub Profile](https://github.com/philliprognerud)
 * **Tyler Bruno** - *Software Developer* - [GitHub Profile](https://github.com/tybruno)
 * **Paul Nguyen** - *Software Developer* - [GitHub Profile](https://github.com/paul1409)
-* **David** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
-* **Devanshi** - *Software Developer* - [GitHub Profile](https://github.com/Devli12)
-* **Hovanes** - *Software Developer* 
-* **Richard** - *Software Developer* 
-* **Dominic** - *Software Developer* 
+* **David Bit-heydari** - *Documenter* - [GitHub Profile](https://github.com/22dab95)
+* **Devanshi Sukhadia** - *Software Developer* - [GitHub Profile](https://github.com/Devli12)
+* **Hovanes Bakchagyan** - *Software Developer* 
+* **Richard Baroni** - *Software Developer* 
+* **Dominic Varakukala** - *Software Developer* 
 
