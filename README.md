@@ -18,7 +18,7 @@ This application was created in a team of 9 students with majors in software and
 * CAPTCHA protection
 * File uploading through a file selection and/or drag & drop system
 * File deletion
-* Check date of when last edits were made, and file size
+* Check file size, and date of when last edits were made 
 * Edit account information (username, first/last name, email address)
 * Share files with user selected members
 * Password change & confirmation
