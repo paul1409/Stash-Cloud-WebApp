@@ -22,7 +22,7 @@ This application was created in a team of 9 students with majors in software and
 * Edit account information (username, first/last name, email address)
 * Share files with user selected members
 * Password change & confirmation
-* Customizing a user's profile and background cover photo. 
+* Customizing a user's profile and background cover photo 
 
 
 ## Built With
